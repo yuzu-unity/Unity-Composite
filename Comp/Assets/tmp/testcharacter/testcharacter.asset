@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5aedac0accf4ce488fe0a49c206b54f, type: 3}
+  m_Name: testcharacter
+  m_EditorClassIdentifier: 
+  changeName: 0
+  materialObjs:
+  - materialName: body
+    material:
+    - {fileID: 2100000, guid: a0f02d88184eeec40aa257f1ddafeaca, type: 2}
+    - {fileID: 2100000, guid: b58535dc9acfbca4aa2971069e4462bc, type: 2}
+    - {fileID: 2100000, guid: f25e348df8b2d544b9dea0860d2c3349, type: 2}
+    - {fileID: 2100000, guid: 582497df8d075b54596dda059e5bb84f, type: 2}
+  - materialName: Cloth
+    material:
+    - {fileID: 2100000, guid: 1bee9a4b190284743b541cffd17d4037, type: 2}
+    - {fileID: 2100000, guid: 55ab075bb38724b47a171481f2510e78, type: 2}
+    - {fileID: 2100000, guid: af75f415446b63e49894963704245384, type: 2}
+    - {fileID: 2100000, guid: 32e76068f61533049a81e25a6763322e, type: 2}
+  - materialName: Face
+    material:
+    - {fileID: 2100000, guid: 6659edac9a72aba4f9e99bd72315e9fb, type: 2}
+    - {fileID: 2100000, guid: c0b11d6b996cc924fad6ac0351c5d328, type: 2}
+    - {fileID: 2100000, guid: c937abd155f38b546bdd62a02502c1de, type: 2}
+    - {fileID: 2100000, guid: 1fa1bb3d95f89e14ea2cc29dcf7d8c57, type: 2}
+  - materialName: hair
+    material:
+    - {fileID: 2100000, guid: 93546d571b9f6914991455c871cda606, type: 2}
+    - {fileID: 2100000, guid: 183ee44cf196618439c0a09b91ac9e8e, type: 2}
+    - {fileID: 2100000, guid: 2653afffec80b8d40860ac4d4215dd01, type: 2}
+    - {fileID: 2100000, guid: beb4f215ae13b4b48811779f936bfa55, type: 2}
+  - materialName: Mayu
+    material:
+    - {fileID: 2100000, guid: 13b0037c9a25a594b88a715a8050b54f, type: 2}
+    - {fileID: 2100000, guid: 2aa0fa99c09c5f342a2fa8d2c0ec9a4b, type: 2}
+    - {fileID: 2100000, guid: 9e8fb6d100f50c94cb4da02121c471ea, type: 2}
+    - {fileID: 2100000, guid: 19641be8f840343438119f53e6ec8656, type: 2}
